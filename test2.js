@@ -17,4 +17,3 @@ console.log(findAnagrams(["eat", "tea", "tan", "ate", "nat", "bat"]));
 console.log(findAnagrams([""]));
 console.log(findAnagrams(["a"]));
 console.log(findAnagrams([]));
-console.log(findAnagrams());
